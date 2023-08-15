@@ -1,4 +1,4 @@
-# LR-INSAURENCE-PREDICTION
+# LR-INSURANCE-PREDICTION
 
 Certainly! The provided code performs an analysis using linear regression to understand the relationship between various factors and insurance charges. It utilizes Python libraries for data manipulation, visualization, and modeling. Let's break down the code into paragraphs for a clearer explanation.
 
